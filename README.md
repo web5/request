@@ -1,5 +1,6 @@
 
 # Request - Simplified HTTP client
+# Request - 简洁的 HTTP 客户端
 
 [![npm package](https://nodei.co/npm/request.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/request/)
 
@@ -12,6 +13,7 @@
 
 
 ## Super simple to use
+## 使用超级简单
 
 Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 
